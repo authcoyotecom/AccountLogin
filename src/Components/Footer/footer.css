@@ -1,0 +1,33 @@
+#bottom-footer {
+    align-content: center;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+    font-size: 12px;
+    line-height: 1.3333333;
+    column-gap: 8px;
+}
+.coyote_number {
+    font-style: inherit;
+    font-weight: bold;
+}
+.divide {
+    padding: 0 8px;
+}
+.footer-link {
+    color: #0088d1;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+}
+
+/* Media */
+@media screen and (max-width:767px) {
+    #bottom-footer {
+        padding: 16px 0;
+        display: block;
+        text-align: center;
+    }
+}

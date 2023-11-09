@@ -1,0 +1,137 @@
+
+.form_box {
+    width: 100%;
+    max-width: 390px; 
+ }
+ #formss {
+    display: flex;
+    flex-direction: column;
+    row-gap: 16px;
+ }
+ .inputBlock {
+   position: relative;
+   align-items: center;
+   display: flex;
+ }
+ .form-control {
+   font-size: 18px;
+   color: #343434;
+   width: 100%;
+   padding: 11px 16px;
+   background-color: #fff;
+   background-image: none;
+   transition: all .15s ease-in-out;
+   -o-transition: all ease-in-out .15s;
+   -webkit-transition: all .15s ease-in-out;
+   -moz-transition: all ease-in-out .15s;
+   border: 1px solid #C1C1C1;
+   border-radius: 0.31746032rem;
+   font-family: Helvetica Neue,Arial,Helvetica,sans-serif;
+   height: 46px;
+   font-weight: normal;
+   display: inline-block;
+}
+.form-control::placeholder {
+   color: #706f6f;
+   font-size: 14px;
+}
+.form-control:focus {
+   border-color: #3BEA1F;
+   outline: none;
+}
+.btn-primary {
+   cursor: default;
+   opacity: 0.5;
+   color: #343434;
+   height: 40px;
+   border-radius: 4px;
+   background-color: #27D434;
+   font-size: 16px;
+   width: 100%;
+   border-radius: 20px;
+   text-transform: uppercase;
+   border: none;
+}
+.btn-primary-active {
+   cursor: default;
+   color: #343434;
+   height: 40px;
+   border-radius: 4px;
+   background-color: #27D434;
+   font-size: 16px;
+   width: 100%;
+   border-radius: 20px;
+   text-transform: uppercase;
+   border: none;
+   opacity: 1;
+   cursor: pointer;
+   font-weight: bold;
+}
+.eyeIcon {
+   position: absolute;
+   right: 10px;
+   cursor: pointer;
+   line-height: 0;
+}
+.eyeIcon img {
+   width: 22px;
+   height: 22px;
+   filter: contrast(0.1);
+}
+.linksBox {
+   margin-top: 16px;
+   display: flex;
+   flex-direction: column;
+   row-gap: 16px;
+   align-items: center;
+}
+.forgotLink, .employeLog {
+   font-size: 12px;
+   text-decoration: none;
+   color: #0088d1;
+}
+.forgotLink:hover, .employeLog:hover {
+   text-decoration: underline;
+}
+.dontAccount {
+   font-size: 16px;
+}
+.divide {
+   padding: 0 8px;
+}
+.signUpBlock a {
+   font-size: 14px;
+   color: #0088d1;
+   text-transform: uppercase;
+   text-decoration: none;
+   padding: 12px 8px;
+   border-radius: 20px;
+   font-weight: bold;
+}
+.signUpBlock a:hover {
+   background: #d4e2e6;
+}
+.errorBlock {
+   height: 40px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   border-color: #790000;
+   color: #790000;
+   margin-bottom: 16px ;
+   border-radius: 3px;
+   border: 1px solid #790000;
+   font-size: 12px;
+}
+
+@media screen and (max-width:410px) {
+   .signUpBlock {
+      display: flex;
+      align-items: center;
+      row-gap: 8px;
+      flex-direction: column;
+   }
+   .divide {
+      display: none;
+   }
+}

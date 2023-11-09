@@ -1,0 +1,22 @@
+.page-wrapper-new {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
+.headerTop {
+    background: #000;
+    border-color: #000;
+    color: #fff;
+    padding: 8px 16px;
+    display: flex;
+    align-items: center;
+}
+.headerTop a {
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    line-height: 0;
+}
+.brand-png {
+    height: 25px;
+}
