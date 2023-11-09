@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/AccountLogin/static/css/main.e59c920b.css",
+    "main.js": "/AccountLogin/static/js/main.c702800c.js",
+    "static/media/login-banner.png": "/AccountLogin/static/media/login-banner.c260ef81d4e373b4c2a1.png",
+    "static/media/supply.jpg": "/AccountLogin/static/media/supply.317a2cc2ed339fb36ff9.jpg",
+    "static/media/peak.jpg": "/AccountLogin/static/media/peak.bba39fb4dcb873e00388.jpg",
+    "static/media/bac.svg": "/AccountLogin/static/media/bac.ae1afe7fa400fa38168d41e8c3a04afa.svg",
+    "static/media/right-arrow-svgrepo-com.svg": "/AccountLogin/static/media/right-arrow-svgrepo-com.affd910b39231fedd76d3582d6177ace.svg",
+    "index.html": "/AccountLogin/index.html",
+    "static/media/pak.svg": "/AccountLogin/static/media/pak.f272a9c133bc9867c3d2dc1ecaf7ceb1.svg",
+    "main.e59c920b.css.map": "/AccountLogin/static/css/main.e59c920b.css.map",
+    "main.c702800c.js.map": "/AccountLogin/static/js/main.c702800c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e59c920b.css",
+    "static/js/main.c702800c.js"
+  ]
+}
