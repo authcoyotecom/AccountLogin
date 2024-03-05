@@ -54,6 +54,7 @@
     flex-wrap: wrap;
 }
 .reklam {
+    height: 356px;
     max-width: 212px;
     width: 100%;
     background: #f7f7f7;
@@ -137,6 +138,9 @@
     }
     .phone_section {
         height: 860px;
+    }
+    .reklam {
+        height: auto;
     }
 }
 @media screen and (max-width:670px) {
