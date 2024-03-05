@@ -36,7 +36,7 @@
 }
 .form_section {
     position: absolute;
-    top: 220px;
+    top: 250px;
     width: 100%;
     padding: 16px;
 }
@@ -120,7 +120,7 @@
         padding-top: 32px;
     }
     .form_section {
-        top: 120px;
+        top: 170px;
     }
 }
 @media screen and (max-width:1000px) {
@@ -180,7 +180,7 @@
         line-height: 26px;
     }
     .form_section {
-        top: 80px;
+        top: 130px;
     }
     .reklam_text {
         font-size: 17px;
