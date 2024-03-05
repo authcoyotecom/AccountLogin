@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/AccountLogin/static/css/main.ffc6c5f8.css",
+    "main.css": "/AccountLogin/static/css/main.a4ac52d9.css",
     "main.js": "/AccountLogin/static/js/main.bda60b92.js",
     "static/media/login-banner.png": "/AccountLogin/static/media/login-banner.c260ef81d4e373b4c2a1.png",
     "static/media/peak.jpg": "/AccountLogin/static/media/peak.0a581dc4a5266fdd1d23.jpg",
@@ -9,11 +9,11 @@
     "static/media/right-arrow-svgrepo-com.svg": "/AccountLogin/static/media/right-arrow-svgrepo-com.affd910b39231fedd76d3582d6177ace.svg",
     "index.html": "/AccountLogin/index.html",
     "static/media/pak.svg": "/AccountLogin/static/media/pak.f272a9c133bc9867c3d2dc1ecaf7ceb1.svg",
-    "main.ffc6c5f8.css.map": "/AccountLogin/static/css/main.ffc6c5f8.css.map",
+    "main.a4ac52d9.css.map": "/AccountLogin/static/css/main.a4ac52d9.css.map",
     "main.bda60b92.js.map": "/AccountLogin/static/js/main.bda60b92.js.map"
   },
   "entrypoints": [
-    "static/css/main.ffc6c5f8.css",
+    "static/css/main.a4ac52d9.css",
     "static/js/main.bda60b92.js"
   ]
 }
