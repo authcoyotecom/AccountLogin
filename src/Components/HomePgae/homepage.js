@@ -18,20 +18,20 @@ function HomePage() {
              <div className='form_block'>
                 <FormFk />    
                 <div className='reklam_big'>
-                    <a href='https://resources.coyote.com/source/peak-season-101' target='_blank' className='reklam'>
+                    <a href='https://resources.coyote.com/coyotego-login-carrier/go-carrier-my-loads' target='_blank' className='reklam'>
                         <div className='phonerbox'>
                             <img className='phoner' src={peak}></img>
                         </div>
-                        <p className='reklam_text'>How to Get UPS Peak Season Freight in 2023: Everything Carriers Need to Know</p>
+                        <p className='reklam_text'>Managing Your Active Loads: Carrier's Guide to CoyoteGO</p>
                         <div className='read'>Read Article
                             <img className='readimg' src={rightarrow}></img>
                         </div>
                     </a>
-                    <a href='https://resources.coyote.com/coyotego-login-shipper/master-series-on-demand' target='_blank' className='reklam'>
+                    <a href='https://resources.coyote.com/coyotego-login-shipper/go-shipper-payment' target='_blank' className='reklam'>
                         <div className='phonerbox'>
                             <img className='phoner' src={supply}></img>
                         </div>
-                        <p className='reklam_text'>Supply Chain Master Series: Preparing for Peak From Border to Border Is Now On Demand</p>
+                        <p className='reklam_text'>Paying for Your Shipments Digitally: Shipper’s Guide to CoyoteGO</p>
                         <div className='read'>Read Article
                             <img className='readimg' src={rightarrow}></img>
                         </div>
