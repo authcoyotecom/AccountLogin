@@ -54,6 +54,9 @@
     flex-wrap: wrap;
 }
 .reklam {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
     height: 356px;
     max-width: 212px;
     width: 100%;
