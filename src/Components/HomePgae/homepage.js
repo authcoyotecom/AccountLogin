@@ -3,10 +3,12 @@ import FormFk from '../Form/formfk';
 import peak from '../../img/peak.jpg';
 import supply from '../../img/supply.jpg';
 import rightarrow from '../../img/right-arrow-svgrepo-com.svg';
+import Header from '../Header/header';
 
 function HomePage() {
   return (
     <section className="body">
+        <Header/>
           <div className="photo_section">
              <div className='photo_text'>
                 <p>COYOTE LOGISTICS</p>
