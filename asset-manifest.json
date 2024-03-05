@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/AccountLogin/static/css/main.9e75a577.css",
-    "main.js": "/AccountLogin/static/js/main.8544270b.js",
+    "main.css": "/AccountLogin/static/css/main.ffc6c5f8.css",
+    "main.js": "/AccountLogin/static/js/main.bda60b92.js",
     "static/media/login-banner.png": "/AccountLogin/static/media/login-banner.c260ef81d4e373b4c2a1.png",
     "static/media/peak.jpg": "/AccountLogin/static/media/peak.0a581dc4a5266fdd1d23.jpg",
     "static/media/supply.jpg": "/AccountLogin/static/media/supply.f40213960a5f2be0c196.jpg",
@@ -9,11 +9,11 @@
     "static/media/right-arrow-svgrepo-com.svg": "/AccountLogin/static/media/right-arrow-svgrepo-com.affd910b39231fedd76d3582d6177ace.svg",
     "index.html": "/AccountLogin/index.html",
     "static/media/pak.svg": "/AccountLogin/static/media/pak.f272a9c133bc9867c3d2dc1ecaf7ceb1.svg",
-    "main.9e75a577.css.map": "/AccountLogin/static/css/main.9e75a577.css.map",
-    "main.8544270b.js.map": "/AccountLogin/static/js/main.8544270b.js.map"
+    "main.ffc6c5f8.css.map": "/AccountLogin/static/css/main.ffc6c5f8.css.map",
+    "main.bda60b92.js.map": "/AccountLogin/static/js/main.bda60b92.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e75a577.css",
-    "static/js/main.8544270b.js"
+    "static/css/main.ffc6c5f8.css",
+    "static/js/main.bda60b92.js"
   ]
 }
